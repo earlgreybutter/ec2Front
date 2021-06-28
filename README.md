@@ -1,4 +1,8 @@
-﻿# create-jqwidgets-vue-app
+1. npm i 
+2. npm run serve 로 실행
+
+
+# create-jqwidgets-vue-app
 Please refer to its documentation:
   - [Getting Started](https://github.com/jqwidgets/create-jqwidgets-vue-app/blob/master/README.md#getting-started) 
   - [jQWidgets Vue Documentation](http://www.jqwidgets.com/vue-components-documentation/)
